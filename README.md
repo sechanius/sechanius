@@ -6,7 +6,7 @@
 
 - :microscope: Люблю решать задачи на логику на LeetCode, предпочитаю принимать решения на основе данных.
 
-- :game_die: Занимаюсь спортивным настольным футболом (кикер).
+- :game_die: Занимаюсь спортивным настольным футболом (кикер). Люблю играть в настольные и видео игры.
 
 - :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DimDolino)
 
