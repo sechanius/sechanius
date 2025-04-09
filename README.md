@@ -8,7 +8,7 @@
 
 - :game_die: Занимаюсь спортивным настольным футболом (кикер). Люблю играть в настольные и видео игры.
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/DimDolino)
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/secha_aas)
 
 ---
 ### :hammer_and_wrench: Языки и инструменты :
